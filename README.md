@@ -6,6 +6,8 @@ A modern, responsive web application built with Next.js 16 for tracking Indian s
 
 **Production URL**: [https://stock-tracker.vercel.app](https://stock-tracker.vercel.app)
 
+**GitHub Repository**: [https://github.com/HARSHTANDEL25/stock-tracker](https://github.com/HARSHTANDEL25/stock-tracker)
+
 ## ✨ Features
 
 - 📊 **Real-Time Market Data**: Get instant stock prices and market updates
@@ -58,7 +60,7 @@ my-app/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/stock-tracker.git
+git clone https://github.com/HARSHTANDEL25/stock-tracker.git
 cd stock-tracker
 ```
 
@@ -155,4 +157,6 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ---
 
-**Live Demo**: [https://stock-tracker.vercel.app](https://stock-tracker.vercel.app)
+**🔗 Links**:
+- **Live Demo**: [https://stock-tracker.vercel.app](https://stock-tracker.vercel.app)
+- **GitHub**: [https://github.com/HARSHTANDEL25/stock-tracker](https://github.com/HARSHTANDEL25/stock-tracker)

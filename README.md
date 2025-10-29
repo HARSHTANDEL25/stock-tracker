@@ -4,7 +4,7 @@ A modern, responsive web application built with Next.js 16 for tracking Indian s
 
 ## 🌐 Live Demo
 
-**Production URL**: [https://stock-tracker.vercel.app](https://stock-tracker.vercel.app)
+**Production URL**: [https://stock-tracker-e2pikdj38-harshtandel2508-7363s-projects.vercel.app/)
 
 **GitHub Repository**: [https://github.com/HARSHTANDEL25/stock-tracker](https://github.com/HARSHTANDEL25/stock-tracker)
 
